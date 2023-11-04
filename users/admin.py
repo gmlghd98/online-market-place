@@ -8,3 +8,4 @@ class CustomUserAdmin(UserAdmin):
     pass
 
 
+# test commit
