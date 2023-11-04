@@ -6,3 +6,6 @@ from .models import User
 @admin.register(User)
 class CustomUserAdmin(UserAdmin):
     pass
+
+
+# test
